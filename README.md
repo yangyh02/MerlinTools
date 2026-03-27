@@ -30,7 +30,7 @@
 
 ### 1. 准备工作
 
-右侧release下载
+右侧release下载最新版本
 
 确保文件夹结构如下：
 
@@ -76,9 +76,6 @@
 4. **停止运行**：点击「停止运行」按钮或关闭窗口
 
 ## 常见问题
-
-### Q: 程序关闭报错Failed to remove temporary directory: C:\ Users\ lx\AppData\ Local\ Temp\ MEI203882？
-A: 可以忽略，临时文件会被自动清理。
 
 ### Q: 程序启动后没有反应？
 A: 请确保 `shared` 文件夹已创建，且游戏已在运行。
